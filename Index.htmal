@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Slim-Fit Chinos - ManStyle</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        .product { display: flex; gap: 20px; }
+        .image { flex: 1; }
+        .details { flex: 2; }
+        .reviews { margin-top: 20px; }
+        .cta { background: #007bff; color: white; padding: 10px; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ManStyle</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section class="product">
+        <div class="image">
+            <img src="chino-image.jpg" alt="Slim-Fit Chinos" width="400">
+        </div>
+        <div class="details">
+            <h2>Slim-Fit Chinos</h2>
+            <p>These versatile slim-fit chinos are crafted from premium cotton blend for all-day comfort. Perfect for work or weekends.</p>
+            <ul>
+                <li>Material: 98% Cotton, 2% Elastane</li>
+                <li>Fit: Slim (inseam options: 30-36 inches)</li>
+                <li>Care: Machine wash cold, tumble dry low</li>
+            </ul>
+            <p>Price: $59.99</p>
+            <select>
+                <option>Size: S</option>
+                <option>M</option>
+                <option>L</option>
+                <option>XL</option>
+            </select>
+            <button class="cta">Add to Cart</button>
+        </div>
+    </section>
+    <section class="reviews">
+        <h3>Reviews (4.5/5 stars)</h3>
+        <p>"Great fit and quality – highly recommend!" – Alex R.</p>
+        <p>"Comfortable for all-day wear." – Mike T.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 ManStyle. All rights reserved.</p>
+    </footer>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Slim-Fit Chinos - ManStyle</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        .product { display: flex; gap: 20px; }
+        .image { flex: 1; }
+        .details { flex: 2; }
+        .reviews { margin-top: 20px; }
+        .cta { background: #007bff; color: white; padding: 10px; border: none; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ManStyle</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="shop.html">Shop</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <section class="product">
+        <div class="image">
+            <img src="chino-image.jpg" alt="Slim-Fit Chinos" width="400">
+        </div>
+        <div class="details">
+            <h2>Slim-Fit Chinos</h2>
+            <p>These versatile slim-fit chinos are crafted from premium cotton blend for all-day comfort. Perfect for work or weekends.</p>
+            <ul>
+                <li>Material: 98% Cotton, 2% Elastane</li>
+                <li>Fit: Slim (inseam options: 30-36 inches)</li>
+                <li>Care: Machine wash cold, tumble dry low</li>
+            </ul>
+            <p>Price: $59.99</p>
+            <select>
+                <option>Size: S</option>
+                <option>M</option>
+                <option>L</option>
+                <option>XL</option>
+            </select>
+            <button class="cta">Add to Cart</button>
+        </div>
+    </section>
+    <section class="reviews">
+        <h3>Reviews (4.5/5 stars)</h3>
+        <p>"Great fit and quality – highly recommend!" – Alex R.</p>
+        <p>"Comfortable for all-day wear." – Mike T.</p>
+    </section>
+    <footer>
+        <p>&copy; 2023 ManStyle. All rights reserved.</p>
+    </footer>
+</body>
+</html>
